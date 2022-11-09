@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 2.8)
 PROJECT(lzhamdll)
+cmake_minimum_required(VERSION 2.8)
 option(BUILD_X64 "build 64-bit" TRUE)
 
 message("Initial BUILD_X64=${BUILD_X64}")
